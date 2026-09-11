@@ -1,6 +1,6 @@
 {
-  "name": "ALEGRA - Consulta tu Defensor",
-  "short_name": "ALEGRA",
+  "name": "MEGA ALEGRA - Lima Centro",
+  "short_name": "MEGA ALEGRA",
   "description": "Consulta el abogado defensor asignado a tu caso.",
   "start_url": "./index.html",
   "scope": "./",
